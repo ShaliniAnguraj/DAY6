@@ -67,6 +67,7 @@ Uberprice()
 }
 var c1=new Uberprice("Hyundai",150,30);
 var c2=new Uberprice("Ford",200,50);
-var c31=new Uberprice("innova",50,20);
+var c3=new Uberprice("innova",50,20);
 console.log(c1.Uberprice());
-console.log(c2);
+console.log(c2.Uberprice());
+console.log(c3.Uberprice());
